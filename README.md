@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year Student at DHVSU
+👨🏻‍💻 2nd Year Student at DHVSU
 
 
 ## 🌐 Socials:
