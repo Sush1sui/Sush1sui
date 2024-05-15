@@ -1,6 +1,9 @@
 # 💫 About Me:
 👨🏻‍💻 2nd Year Student at DHVSU
 
+---
+[![](https://visitcount.itsvg.in/api?id=Sush1sui&icon=0&color=6)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sush1sui) 
 
@@ -20,7 +23,6 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sush1sui&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
