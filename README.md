@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 2nd Year Student at DHVSU
+👨🏻‍💻 3rd Year Student at DHVSU
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sush1sui) 
