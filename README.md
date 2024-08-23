@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 3rd Year Student at DHVSU
+I have a C6 Qiqi
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sush1sui) 
