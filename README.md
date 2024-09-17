@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m miserable<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact I have a C6 Qiqi
+🔭 I’m currently on my redemption arc<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact 2024 is my unluckiest year
 
 
 # 💻 Tech Stack:
