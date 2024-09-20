@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on my redemption arc<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact 2024 is my unluckiest year
+🔭 I’m working on being the best version of myself<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact, I am always on my redemption arc
 
 
 # 💻 Tech Stack:
