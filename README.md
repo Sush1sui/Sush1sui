@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m working on being the best version of myself<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact, I am always on my redemption arc
+🔭 I’m working on our Final Project in uni<br>🌱 I’m currently learning Typescript and MERN stack and a little bit of Laravel for API<br>⚡ Fun fact, I am always on my redemption arc
 
 
 # 💻 Tech Stack:
