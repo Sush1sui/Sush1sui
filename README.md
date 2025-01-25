@@ -1,9 +1,11 @@
+# <p align=center><h1 align=center><img width=30px src="https://cdn.discordapp.com/emojis/1293411594621157458.webp?animated=true" /> Hello I'm Sush1sui! <img width=30px src="https://cdn.discordapp.com/emojis/1293411594621157458.webp?animated=true" /> </h1></p>
 
 
-# 💫 About Me: <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" />
+<p><h1>💫 About Me:</h1> <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" /></p>
 🔭 I’m working on being better<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact, I am always on my redemption arc
 
 <br>
+
 <div align=center>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vx4jsvjmbh3vecwjrfinxi4e4e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
@@ -29,14 +31,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sush1sui&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sush1sui&theme=tokyonight)
+
+<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 My Repositories
+<br>
 
+### 🔝 My Repositories
 <p>
 <a href="https://github.com/CSWebSys-Group/DHVSU-E-Learning-Hub">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CSWebSys-Group&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
