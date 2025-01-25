@@ -1,4 +1,6 @@
-# 💫 About Me: <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sush1sui.Sush1sui">
+
+
+# 💫 About Me: <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" />
 🔭 I’m working on being better<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact, I am always on my redemption arc
 
 <br>
@@ -20,7 +22,7 @@
   </div>
   <div align=center>
     <a href="https://github.com/Sush1sui/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sush1sui&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sush1sui&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
@@ -34,16 +36,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 My Repositories
-<div gap=>
+
+<p>
 <a href="https://github.com/CSWebSys-Group/DHVSU-E-Learning-Hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CSWebSys-Group&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CSWebSys-Group&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+</a>
+<a href="https://github.com/Sush1sui/Finesse">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=Finesse&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
 </a>
   
-<a href="https://github.com/Sush1sui/Finesse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=Finesse&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-</a>
-
+</p>
+<p>
 <a href="https://github.com/Sush1sui/React-Journey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=React-Journey&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=React-Journey&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
 </a>
-</div>
+</p>
