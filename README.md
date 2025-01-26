@@ -2,7 +2,9 @@
 
 
 <p><h1>💫 About Me:</h1> <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" /></p>
-🔭 I’m working on being better<br>🌱 I’m currently learning Typescript and MERN stack<br>⚡ Fun fact, I'm always on redemption arc
+<h5>🔭 I’m working on being better</h5>
+<h5>🌱 I’m currently learning React</h5>
+<h5>⚡ Fun fact, I'm always on redemption arc</h5>
 
 <br><br>
 
