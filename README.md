@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on being better
 - 🌱 I’m currently looking to learn new things
-- ⚡ Fun fact: I'm always on a redemption arc
+- ⚡ Fun fact: I'm always on my redemption arc
 
 ---
 
