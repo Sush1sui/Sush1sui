@@ -80,8 +80,8 @@
   <table align="center">
     <tr>
       <td>
-        <a href="https://github.com/CSWebSys-Group/DHVSU-E-Learning-Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CSWebSys-Group&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        <a href="https://github.com/BSCS-3B/DHVSU-E-Learning-Hub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-3B&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
       <td>
@@ -91,7 +91,12 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
+        <a href="https://github.com/Sush1sui/sushi-vc-bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=sushi-vc-bot&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        </a>
+      </td>
+      <td>
         <a href="https://github.com/Sush1sui/React-Journey">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=React-Journey&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
