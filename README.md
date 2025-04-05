@@ -3,7 +3,7 @@
 ---
 
 ### 💫 About Me:
-<img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" />
+<!-- <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" /> -->
 
 - 🔭 I’m working on being better
 - 🌱 I’m currently learning some stuffs I don't understand
