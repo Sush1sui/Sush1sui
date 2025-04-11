@@ -1,6 +1,6 @@
 <p align="center"><h1 align="center"><img width="30px" src="https://cdn.discordapp.com/emojis/1293411594621157458.webp?animated=true" /> Hello, I'm Sush1sui! <img width="30px" src="https://cdn.discordapp.com/emojis/1293411594621157458.webp?animated=true" /> </h1></p>
 
----
+
 
 ### 💫 About Me:
 <!-- <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" /> -->
@@ -18,9 +18,9 @@
 
 </div>
 
----
 
-## 💻 Tech Stack:
+
+<h3> 💻 Tech Stack: </h3>
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -37,20 +37,27 @@
   </p>
 </div>
 
----
 
-## 📊 GitHub Stats:
+
+<h3> 📊 GitHub Stats: </h3>
 <div align="center" style="border: 1px solid #61dafb; padding: 10px; border-radius: 10px;">
   <table align="center">
     <tr>
       <td>
-        <a href="https://github.com/Sush1sui/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sush1sui&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+        <a href="https://github.com/Sush1sui/github-readme-stats" title="Go to Source">
+          <img src="https://github-readme-stats.vercel.app/api?username=Sush1sui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
         </a>
       </td>
       <td>
+        <a href="https://nirzak-streak-stats.vercel.app/?user=Sush1sui&theme=outrun&hide_border=false">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=Sush1sui&theme=tokyonight&hide_border=false" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <a href="https://github.com/Sush1sui/github-readme-stats" title="Go to Source">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sush1sui&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sush1sui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
         </a>
       </td>
     </tr>
@@ -59,23 +66,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sush1sui&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%" />
 </div>
 
+
 ---
 
-## 🏆 GitHub Trophies
+
+<h3> 🏆 GitHub Trophies </h3>
 <div align="center" style="border: 1px solid #61dafb; padding: 10px; border-radius: 10px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Sush1sui&theme=tokyonight" />
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+<h3> ✍️ Random Dev Quote </h3>
 <div align="center" style="border: 1px solid #61dafb; padding: 10px; border-radius: 10px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-## 🔝 My Repositories
+<h3> 🔝 My Repositories </h3>
 <div align="center">
   <table align="center">
     <tr>
