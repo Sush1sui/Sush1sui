@@ -11,15 +11,6 @@
 
 ---
 
-<div align="center">
-
-### 🎧 Spotify Now Playing / Recently Played
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vx4jsvjmbh3vecwjrfinxi4e4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-
-
 <h3> 💻 Tech Stack: </h3>
 <div align="center">
   <p>
@@ -73,6 +64,15 @@
 <h3> 🏆 GitHub Trophies </h3>
 <div align="center" style="border: 1px solid #61dafb; padding: 10px; border-radius: 10px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Sush1sui&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+
+### 🎧 Spotify Now Playing / Recently Played
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vx4jsvjmbh3vecwjrfinxi4e4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 ---
