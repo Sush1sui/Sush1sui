@@ -94,8 +94,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/Finesse-Developers/finesse-main-bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Finesse-Developers&repo=finesse-main-bot&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        <a href="https://github.com/Sush1sui/finesse-main-bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=finesse-main-bot&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
     </tr>
