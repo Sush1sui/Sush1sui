@@ -36,7 +36,7 @@
     <tr>
       <td>
         <a href="https://github.com/Sush1sui/github-readme-stats" title="Go to Source">
-          <img src="https://github-readme-stats-one-psi-16.vercel.app/api?username=Sush1sui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+          <img src="https://github-readme-stats-one-psi-16.vercel.app/api?username=Sush1sui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=21600" />
         </a>
       </td>
       <td>
@@ -48,7 +48,7 @@
     <tr>
       <td colspan="2" align="center">
         <a href="https://github.com/Sush1sui/github-readme-stats" title="Go to Source">
-          <img src="https://github-readme-stats-one-psi-16.vercel.app/api/top-langs/?username=Sush1sui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+          <img src="https://github-readme-stats-one-psi-16.vercel.app/api/top-langs/?username=Sush1sui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=21600" />
         </a>
       </td>
     </tr>
