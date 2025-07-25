@@ -5,9 +5,9 @@
 ### 💫 About Me:
 <!-- <img src="https://komarev.com/ghpvc/?username=sush1sui&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="sush1sui" /> -->
 
-- 🔭 What I'm building: Just a dev sharpening my skills and refactoring my code. I'm always working on a new app to blow everyone away.
-- 🌱 My secret sauce: Bugs are just features in disguise. Every crash is simply a stepping stone to a more elegant solution.
-- ⚡ Fun fact: My redemption arc is written in my commit history, and while some call my code spaghetti, it always tastes like victory.
+- 🔭 What I'm building: I’m a developer who believes there’s always another level to reach. I quietly refine my craft, always working on something new—never satisfied, always improving.
+- 🌱 My secret sauce: Obstacles are just part of the process. Every bug, every crash, every late-night refactor is a lesson. I don’t chase perfection—I chase growth.
+- ⚡ Fun fact: My codebase is a record of my journey, and while some call my code spaghetti, it always tastes like victory.
 
 ---
 
