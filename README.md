@@ -14,21 +14,21 @@
   <table align="center">
     <tr>
       <td>
-        <p>No not this, this almost killed me</p>
-        <a href="https://github.com/BSCS-3B/DHVSU-E-Learning-Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-3B&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        <a href="https://github.com/Sush1sui/fns-go">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=fns-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Sush1sui/fns-go">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=fns-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        <a href="https://github.com/Sush1sui/sushi-vc-bot-go">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=sushi-vc-bot-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Sush1sui/sushi-vc-bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=sushi-vc-bot&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        <p>No not this, this almost killed me</p>
+        <a href="https://github.com/BSCS-3B/DHVSU-E-Learning-Hub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-3B&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
       <td>
