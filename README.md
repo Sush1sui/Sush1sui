@@ -38,9 +38,14 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
           <a href="https://github.com/Sush1sui/cico-bot-go">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=cico-bot-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        </a>
+      </td>
+      <td colspan="2" align="center">
+          <a href="https://github.com/BSCS-4B-HACKATHON/try-outs-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-4B-HACKATHON&repo=try-outs-app&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
     </tr>
