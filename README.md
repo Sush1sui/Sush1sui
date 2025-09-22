@@ -26,9 +26,8 @@
     </tr>
     <tr>
       <td>
-        <p>No not this, this almost killed me</p>
-        <a href="https://github.com/BSCS-3B/DHVSU-E-Learning-Hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-3B&repo=DHVSU-E-Learning-Hub&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
+        <a href="https://github.com/BSCS-4B-HACKATHON/Pet-Race-NFT-Game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-4B-HACKATHON&repo=Pet-Race-NFT-Game&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
         </a>
       </td>
       <td>
