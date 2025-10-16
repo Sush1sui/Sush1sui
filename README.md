@@ -9,50 +9,6 @@
 
 ---
 
-<h3> 🔝 My Decent Works </h3>
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/Sush1sui/fns-go">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=fns-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sush1sui/sushi-vc-bot-go">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=sushi-vc-bot-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-          <a href="https://github.com/Sush1sui/cico-bot-go">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=cico-bot-go&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sush1sui/dc-bot-starter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sush1sui&repo=dc-bot-starter&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <!--<td>
-        <a href="https://github.com/BSCS-4B-HACKATHON/Pet-Race-NFT-Game">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-4B-HACKATHON&repo=Pet-Race-NFT-Game&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-        </a>
-      </td> -->
-      <!-- <td colspan="2" align="center">
-          <a href="https://github.com/BSCS-4B-HACKATHON/try-outs-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BSCS-4B-HACKATHON&repo=try-outs-app&theme=react-dark&bg_color=20232a&hide_border=true&title_color=87CEEB&text_color=87CEEB" />
-        </a> 
-      </td> -->
-    </tr>
-  </table>
-</div>
-
----
-
 <table>
   <tr>
     <td align="center" width="50%">
