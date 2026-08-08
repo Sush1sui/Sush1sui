@@ -56,7 +56,7 @@
 <td align="center" width="50%" valign="top">
 <h3>In the Zone (Spotify)</h3>
 <a href="https://github.com/kittinan/spotify-github-profile">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vx4jsvjmbh3vecwjrfinxi4e4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vx4jsvjmbh3vecwjrfinxi4e4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
 </a>
 </td>
 </tr>
