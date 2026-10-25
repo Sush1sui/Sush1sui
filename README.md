@@ -9,9 +9,9 @@
 
 ### About Me:
 
+- <b>Status:</b> CS Graduate working full-time as a Junior Developer.
 - <b>What I'm building:</b> High-performance utility applications and reliable backend systems.
-- <b>My mindset:</b> I thrive on trial and error. Every bug, crash, and late-night refactor isn't a setback—it's just raw data teaching me how to build a stronger application. 
-- <b>Status:</b> Wrapping up my final CS coursework (Graduating Aug 2026) and stepping into the industry full-time as a Junior Software Developer.
+- <b>My mindset:</b> I thrive on trial and error. Every bug, crash, and late-night refactor isn't a setback—it's raw data teaching me how to build stronger software.
 - <b>My philosophy:</b> The best systems aren't built by playing it safe. They come from testing unconventional ideas and refusing to settle for "good enough."
 
 ---
